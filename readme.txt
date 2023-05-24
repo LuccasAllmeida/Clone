@@ -1,0 +1,1 @@
+Primeiro projeto postado, clone de plataforma de stream para treino.
